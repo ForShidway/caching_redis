@@ -107,7 +107,7 @@ Setiap layer hanya berkomunikasi lewat **interface** → mudah diganti, mudah di
 
 ## 💬 Riwayat Prompt Permintaan
 
-Berikut adalah seluruh prompt/permintaan yang diajukan selama proses pembuatan sistem ini:
+Berikut adalah seluruh prompt/permintaan yang diajukan selama proses pembuatan sistem ini karena sistem ini dibuat menggunakan Agentic AI Claude Sonet:
 
 ---
 
@@ -122,7 +122,7 @@ Berikut adalah seluruh prompt/permintaan yang diajukan selama proses pembuatan s
 ---
 
 **Prompt 3 — Pertanyaan tentang Cara Melihat Perbedaan Kecepatan**
-> *"ada itu adalah kapan perbedaan kecepatannya dapat dilihat dan dengan cara apa dan bagaimana"*
+> *"kapan perbedaan kecepatannya dapat dilihat dan dengan cara apa dan bagaimana"*
 
 ---
 
